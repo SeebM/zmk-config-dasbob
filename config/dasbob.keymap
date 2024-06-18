@@ -23,9 +23,9 @@ combo_##NAME { \
             //flavor = "hold-preferred";
             // flavor = "tap-preferred";
             flavor = "balanced";
-            tapping-term-ms = <200>;
+            tapping-term-ms = <130>;
             //quick-tap-ms = <100>;
-            hold-while-undecided;
+            //hold-while-undecided;
             // global-quick-tap;
             bindings = <&kp>, <&kp>;
             // opposite side hand keys
@@ -38,8 +38,8 @@ combo_##NAME { \
             //flavor = "hold-preferred";
             // flavor = "tap-preferred";
             flavor = "balanced";
-            tapping-term-ms = <200>;
-            hold-while-undecided;
+            tapping-term-ms = <130>;
+            //hold-while-undecided;
             //quick-tap-ms = <100>;
             // global-quick-tap;
             bindings = <&kp>, <&kp>;
