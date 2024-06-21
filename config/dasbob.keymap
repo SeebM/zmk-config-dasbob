@@ -23,7 +23,7 @@ combo_##NAME { \
             //flavor = "hold-preferred";
             // flavor = "tap-preferred";
             flavor = "balanced";
-            tapping-term-ms = <150>;
+            tapping-term-ms = <250>;
             //quick-tap-ms = <100>;
             //hold-while-undecided;
             // global-quick-tap;
@@ -38,7 +38,7 @@ combo_##NAME { \
             //flavor = "hold-preferred";
             // flavor = "tap-preferred";
             flavor = "balanced";
-            tapping-term-ms = <150>;
+            tapping-term-ms = <250>;
             //hold-while-undecided;
             //quick-tap-ms = <100>;
             // global-quick-tap;
